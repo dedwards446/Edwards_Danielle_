@@ -4,9 +4,6 @@ import {Routes, Route} from "react-router-dom"
 import Home from "./pages/Home";
 import About from "./pages/About";
 import Chakra from "./pages/Chakra";
-import Contact from "./pages/Contact";
-import License from "./pages/License";
-import Privacy from "./pages/Privacy";
 import useAppPersist from "./functions/useAppPersist";
 import ChakrasLayout from "./pages/ChakrasLayout";
 import Error from "./pages/Error";
@@ -46,9 +43,6 @@ function App() {
             )
           }
         </Route>
-        <Route path="/contact" element={<Contact/>} />
-        <Route path="/license" element={<License/>} />
-        <Route path="/privacy" element={<Privacy/>} />
         <Route path="*" element={<Error />} />
       </Routes>
     </DeviceSizeContext.Provider>
