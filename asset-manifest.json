@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/dedwards446/Edwards_Danielle_ChakrAlignmentApp_Capstone/static/css/main.225067b7.css",
+    "main.js": "/dedwards446/Edwards_Danielle_ChakrAlignmentApp_Capstone/static/js/main.a07f5b71.js",
+    "static/media/ANG.mp3": "/dedwards446/Edwards_Danielle_ChakrAlignmentApp_Capstone/static/media/ANG.81d1b519444e6caab9da.mp3",
+    "static/media/LAM.mp3": "/dedwards446/Edwards_Danielle_ChakrAlignmentApp_Capstone/static/media/LAM.c187a3813b04a34c05b0.mp3",
+    "static/media/RAM.mp3": "/dedwards446/Edwards_Danielle_ChakrAlignmentApp_Capstone/static/media/RAM.3fb82f712a8d45e446a0.mp3",
+    "static/media/VAM.mp3": "/dedwards446/Edwards_Danielle_ChakrAlignmentApp_Capstone/static/media/VAM.f0aa23ba5af18c8b3b6c.mp3",
+    "static/media/YAM.mp3": "/dedwards446/Edwards_Danielle_ChakrAlignmentApp_Capstone/static/media/YAM.b9e7c2bd493f81e2275b.mp3",
+    "static/media/OM.mp3": "/dedwards446/Edwards_Danielle_ChakrAlignmentApp_Capstone/static/media/OM.e781831761405110a2b8.mp3",
+    "static/media/HAM.mp3": "/dedwards446/Edwards_Danielle_ChakrAlignmentApp_Capstone/static/media/HAM.34e88fde7f789a8b91e1.mp3",
+    "service-worker.js": "/dedwards446/Edwards_Danielle_ChakrAlignmentApp_Capstone/service-worker.js",
+    "static/media/Chakra-01.png": "/dedwards446/Edwards_Danielle_ChakrAlignmentApp_Capstone/static/media/Chakra-01.6dba431f9f9a19aa1991.png",
+    "static/media/Chakra-03.png": "/dedwards446/Edwards_Danielle_ChakrAlignmentApp_Capstone/static/media/Chakra-03.b0007b294902cb83c64f.png",
+    "static/media/Chakra-05.png": "/dedwards446/Edwards_Danielle_ChakrAlignmentApp_Capstone/static/media/Chakra-05.4a0b8d27739e723f225d.png",
+    "static/media/Chakra-04.png": "/dedwards446/Edwards_Danielle_ChakrAlignmentApp_Capstone/static/media/Chakra-04.be1f6812236a90caa737.png",
+    "static/media/Chakra-06.png": "/dedwards446/Edwards_Danielle_ChakrAlignmentApp_Capstone/static/media/Chakra-06.4e832a5873e00ffb4c9e.png",
+    "static/media/Chakra-07.png": "/dedwards446/Edwards_Danielle_ChakrAlignmentApp_Capstone/static/media/Chakra-07.59ea6c2987365f428ac9.png",
+    "static/media/Chakra-02.png": "/dedwards446/Edwards_Danielle_ChakrAlignmentApp_Capstone/static/media/Chakra-02.bc3a92ef7e1fba4a282c.png",
+    "index.html": "/dedwards446/Edwards_Danielle_ChakrAlignmentApp_Capstone/index.html",
+    "main.225067b7.css.map": "/dedwards446/Edwards_Danielle_ChakrAlignmentApp_Capstone/static/css/main.225067b7.css.map",
+    "main.a07f5b71.js.map": "/dedwards446/Edwards_Danielle_ChakrAlignmentApp_Capstone/static/js/main.a07f5b71.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.225067b7.css",
+    "static/js/main.a07f5b71.js"
+  ]
+}
