@@ -1,3 +1,4 @@
+//Audio component
 import React, { useRef, useReducer } from 'react'
 import { Play, Pause } from '../static/icons'
 
