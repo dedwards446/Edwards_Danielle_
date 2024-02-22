@@ -1,14 +1,15 @@
-// This optional code is used to register a service worker.
-// register() is not called by default.
 
-// This lets the app load faster on subsequent visits in production, and gives
-// it offline capabilities. However, it also means that developers (and users)
-// will only see deployed updates on subsequent visits to a page, after all the
-// existing tabs open on the page have been closed, since previously cached
-// resources are updated in the background.
+// This optional code registers a service worker.
+// By default, the register() function is not called.
 
-// To learn more about the benefits of this model and instructions on how to
-// opt-in, read https://cra.link/PWA
+// Registering a service worker enhances app loading speed on subsequent visits in production
+// and grants offline capabilities. However, it results in developers and users
+// only seeing deployed updates during subsequent visits to a page, after all
+// existing tabs open on the page have been closed. This is because previously
+// cached resources are updated in the background.
+
+// For further details on the advantages of this approach and instructions on how to
+// opt-in, refer to https://cra.link/PWA
 
 const isLocalhost = Boolean(
   window.location.hostname === 'localhost' ||
