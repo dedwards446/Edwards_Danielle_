@@ -1,8 +1,8 @@
 {
-  "name": "chakra-app",
+  "name": "chakralignment-app",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://sandeep-shaw10.github.io/chakra-app",
+  "homepage": "https://github.com/dedwards446/Edwards_Danielle_ChakrAlignmentApp_Capstone",
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.4",
     "@testing-library/react": "^13.3.0",
@@ -66,6 +66,4 @@
     "PWA",
     "WorkBox"
   ],
-  "author": "Sandeep Shaw",
-  "license": "MIT"
 }
