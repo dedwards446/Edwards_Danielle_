@@ -1,6 +1,9 @@
-import * as React from "react";
+import React from 'react';
 
-const SVGComponent = (props) => (
+// SVGComponent functional component
+const SVGComponent = (props) => {
+  // Return an SVG element
+  return (props) => (
   <svg
     xmlns="http://www.w3.org/2000/svg"
     xmlnsXlink="http://www.w3.org/1999/xlink"
