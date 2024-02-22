@@ -51,7 +51,7 @@ const ChakraData = [
     },
     {
         path: "sacral",
-        name: "Sacral Chakra",
+        name: "SACRAL CHAKRA",
         sanskrit: "Swadhisthana",
         color: "orange",
         tailwindStyle: [
@@ -68,7 +68,7 @@ const ChakraData = [
         petalCount: 6,
         position: "Lower Abdomen, below the navel",
         quality: ["Creativity", "Pleasure", "Sexuality", "Emotions", "Sensuality"],
-        bodyWell: ["Spleen", "Bladder", "Womb", "Prostate", "Ovaries", "Testicles"],
+        bodyWell: ["Womb", "Prostate", "Ovaries", "Testicles"],
         sound: VAM,
         petalIcon: L2,
         positionImg: C2,
@@ -76,7 +76,7 @@ const ChakraData = [
     },
     {
         path: "solar-pexus",
-        name: "Solar Pexus Chakra",
+        name: "SOLAR-PEXUS CHAKRA",
         sanskrit: "Manipura",
         color: "yellow",
         tailwindStyle: [
@@ -101,7 +101,7 @@ const ChakraData = [
     },
     {
         path: "heart",
-        name: "Heart Chakra",
+        name: "HEART CHAKRA",
         sanskrit: "Anahata",
         color: "green",
         tailwindStyle: [
@@ -126,7 +126,7 @@ const ChakraData = [
     },
     {
         path: "throat",
-        name: "Throat Chakra",
+        name: "THROAT CHAKRA",
         sanskrit: "Vishuddha",
         color: "blue",
         tailwindStyle: [
@@ -151,7 +151,7 @@ const ChakraData = [
     },
     {
         path: "third-eye",
-        name: "Third Eye Chakra",
+        name: "THIRD EYE CHAKRA",
         sanskrit: "Ajna",
         color: "indigo",
         tailwindStyle: [
@@ -176,7 +176,7 @@ const ChakraData = [
     },
     {
         path: "crown",
-        name: "Crown Chakra",
+        name: "CROWN CHAKRA",
         sanskrit: "Sahasrara",
         color: "violet",
         tailwindStyle: [
