@@ -1,6 +1,6 @@
 {
-  "name": "Chakra Meditation App",
-  "short_name": "Chakra App",
+  "name": "Chakra Alignment App",
+  "short_name": "CHAKRALIGNMENT",
   "description": "A simple PWA made using React & JavaScript",
   "icons": [
     {
@@ -38,20 +38,16 @@
       "name": "Home",
       "short_name": "Home",
       "description": "Get Started",
-      "url": "https://sandeep-shaw10.github.io/chakra-app/",
       "icons": [{ "src": "logo192_.png", "sizes": "192x192" }]
     },
     {
       "name": "Meditate",
       "short_name": "Meditate",
       "description": "Choose your Meditation Mantra",
-      "url": "https://sandeep-shaw10.github.io/chakra-app/chakra",
       "icons": [{ "src": "logo192_.png", "sizes": "192x192" }]
     }
   ],
   "theme_color": "#fbb03b",
   "background_color": "#fbb03b",
-  "display": "standalone",
-  "scope": "https://sandeep-shaw10.github.io/chakra-app/",
-  "start_url": "https://sandeep-shaw10.github.io/chakra-app/"
+  "display": "standalone"
 }
