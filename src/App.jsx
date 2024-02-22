@@ -1,3 +1,4 @@
+//import EVERYTHING
 import React, { useEffect } from "react";
 import DeviceSizeContext from "./functions/DeviceSizeContext";
 import {Routes, Route} from "react-router-dom"
